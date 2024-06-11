@@ -14,7 +14,8 @@
 > >    - You can selectively apply styles to elements in an HTML document.
 
 
-# Install VISUAL Siudio Code ![image](https://github.com/SONINJE/HTML_STUDY/assets/106592497/4aef465f-21eb-4074-97af-85f0e41df0a6)
+# Install VISUAL Siudio Code
 
+![image](https://github.com/SONINJE/HTML_STUDY/assets/106592497/773bb5b6-3b6e-4cff-afeb-4011eb4060b4)
 [VISUAL CODE INSTALL PAGE](https://code.visualstudio.com, "
 Please follow the installation guide")
