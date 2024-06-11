@@ -17,6 +17,13 @@
 빌드를 위한 필수 설치파일
 + [Visual Code](https://code.visualstudio.com)
 + [Chrome Brower](https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform%3DDesktop)
+  
+## web development field
+> 웹 디자인
+> 웹 콘텐츠 기획
+> 프론트엔드 개발
+> 백엔드 개발
+> 서버 및 데이터베이스 관리
 
 ## Extensions
 + **view-in-browser** (Koppt HO)
@@ -28,6 +35,8 @@
 + **indent-rainbow** (oderwat)
   + 코드 가독성을 높여주는 기능
 ---
+
+##
 
 ## HTML 문서 기본 구조
 ``` HTML
