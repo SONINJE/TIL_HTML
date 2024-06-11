@@ -90,9 +90,9 @@
 
 ## Head
 
-+ meta
-+ title
-+ style
++ ### meta
++ ### title
++ ### style
 > + color
 > + fontsize
 > + background-color
