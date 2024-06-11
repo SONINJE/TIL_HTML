@@ -16,5 +16,6 @@
 
 # Requirements
 
-> [Visual Code](https://code.visualstudio.com, "
++ [Visual Code](https://code.visualstudio.com, "
 Please follow the installation guide")
++ 
