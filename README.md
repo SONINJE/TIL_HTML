@@ -15,8 +15,7 @@
 
 
 ## Requirements :floppy_disk:
-
-빌드를 위한 필요 설치파일
+빌드를 위한 필수 설치파일
 + [Visual Code](https://code.visualstudio.com)
 + [Chrome Brower](https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform%3DDesktop)
 
