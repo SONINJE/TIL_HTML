@@ -86,3 +86,16 @@
 
 ## 태그 종류
 [태그모음 tistory[참조]](https://stajun.tistory.com/entry/HTML-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC)
+
+
+## Head
+
++ meta
++ title
++ style
+> + color
+> + fontsize
+> + background-color
+> + padding
+> + border
+
