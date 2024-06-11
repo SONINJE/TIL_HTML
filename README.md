@@ -15,4 +15,5 @@
 
 
 # Install VISUAL Siudio Code
-[VISUAL CODE INSTALL PAGE](https://code.visualstudio.com)
+[VISUAL CODE INSTALL PAGE](https://code.visualstudio.com, "
+Please follow the installation guide")
