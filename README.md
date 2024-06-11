@@ -1,7 +1,5 @@
 # To study the HTML/CSS
 
----
-
 ## HTML
 > + Hyper Text Markup Language
 
