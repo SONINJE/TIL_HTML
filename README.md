@@ -21,4 +21,4 @@ For Buliding and running the application you need:
 + 
 
 ## Extensions
-+ ==view-in-browser== (Creater : Koppt HO)
++ **view-in-browser** (Creater : Koppt HO)
