@@ -18,7 +18,7 @@
 
 For Buliding and running the application you need:
 + [Visual Code](https://code.visualstudio.com)
-+ 
++ [Chrome Brower](https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform%3DDesktop)
 
 ## Extensions
 + **view-in-browser** (Koppt HO)
