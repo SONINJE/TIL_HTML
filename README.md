@@ -1,14 +1,12 @@
 # Create a web page using HTML/CSS
-![js](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## HTML/CSS Base
-### HTML
+### HTML ![js](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 > + **Hyper Text Markup Language**
 > >  + **HyperText** : 한 웹 페이지에서 다른 웹 페이지로 이동할 수 있는 기능을 갖춘 문서를 작성하기 위한 언어
 > >  + 하이퍼링크 시스템, 구조를 설계할 때 사용하는 언어, **MARK UP** 언어를 가지고 있습니다.
 
-### CSS
+### CSS ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 > + **Cascading Style Sheets**
 > > + Style sheet
 > >    - HTML 문서의 요소에 선택적으로 스타일을 적용할 수 있습니다.
