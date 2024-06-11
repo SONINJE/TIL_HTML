@@ -5,7 +5,7 @@
 ## HTML/CSS Base
 ### HTML
 > + **Hyper Text Markup Language**
-> >  + **HyperText** : A language for creating documents with the ability to move from one web page to another web page
+> >  + **HyperText** : 한 웹 페이지에서 다른 웹 페이지로 이동할 수 있는 기능을 갖춘 문서를 작성하기 위한 언어
 > >  + It has a hyper link system, a language used when designing structures, **MARK UP** language
 
 ### CSS
