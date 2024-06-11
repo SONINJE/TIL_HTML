@@ -31,7 +31,7 @@
 ---
 
 ## HTML 문서 기본 구조
-'''
+''' HTML
 <!DOCTYPE html>
 <html lang="ko">
   <head>
