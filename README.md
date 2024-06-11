@@ -28,3 +28,19 @@
   + HTML 파일 상단 오른쪽 분할돋보기 아이콘으로 실시간 미리보기 지원
 + **indent-rainbow** (oderwat)
   + 코드 가독성을 높여주는 기능
+---
+
+## HTML 문서 기본 구조
+'''
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <title>여기에는 문서의 제목을 입력해주세요</title>
+  </head>
+  <body>
+    여기에 웹페이지에 표시할 콘텐츠(태그)를 입력해주세요
+  </body>
+</html>
+'''
+
