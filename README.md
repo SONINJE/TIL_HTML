@@ -6,7 +6,7 @@
 ### HTML
 > + **Hyper Text Markup Language**
 > >  + **HyperText** : 한 웹 페이지에서 다른 웹 페이지로 이동할 수 있는 기능을 갖춘 문서를 작성하기 위한 언어
-> >  + It has a hyper link system, a language used when designing structures, **MARK UP** language
+> >  + 하이퍼링크 시스템, 구조를 설계할 때 사용하는 언어, **MARK UP** 언어를 가지고 있습니다.
 
 ### CSS
 > + **Cascading Style Sheets**
