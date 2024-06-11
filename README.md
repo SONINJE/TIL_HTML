@@ -41,8 +41,7 @@
 
 > + 서버의 반대편에는 CLIENT가 있다. 클라이언트는 웹을 이용하는 사용자 또는 컴퓨터를 뜻한다. 클라이언트가 웹 브라우저의 주소창에 URL을 입력해 웹 사이트에 대한 접근을 시도하면, 해당 URL에 위치한 웹 서버는 이를 감지에 클라이언트가 웹 사이트에 접근할 수 있게 한다.
 
-![Uploading image.png…]()
-
+![image](https://github.com/SONINJE/HTML_STUDY/assets/106592497/30b117bf-4cbb-4b80-b259-0863be36cb72)
 
 
 ## HTML 문서 기본 구조
