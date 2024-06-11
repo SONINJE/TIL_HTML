@@ -14,9 +14,9 @@
 > >    - HTML 문서의 요소에 선택적으로 스타일을 적용할 수 있습니다.
 
 
-## Requirements
+## Requirements :floppy_disk:
 
-빌드를 위한 필요 설치파일!!
+빌드를 위한 필요 설치파일
 + [Visual Code](https://code.visualstudio.com)
 + [Chrome Brower](https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform%3DDesktop)
 
