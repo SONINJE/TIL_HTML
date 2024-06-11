@@ -97,7 +97,7 @@
 > + fontsize
 > + background-color
 > + padding
-> + border
+> + border ~ solid ~
 + ### link
 + ### script
 
