@@ -11,7 +11,7 @@
 ### CSS
 > + **Cascading Style Sheets**
 > > + Style sheet
-> >    - You can selectively apply styles to elements in an HTML document.
+> >    - HTML 문서의 요소에 선택적으로 스타일을 적용할 수 있습니다.
 
 
 ## Requirements
