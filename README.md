@@ -31,7 +31,7 @@
 ---
 
 ## HTML 문서 기본 구조
-''' HTML
+``` HTML
 <!DOCTYPE html>
 <html lang="ko">
   <head>
@@ -42,5 +42,5 @@
     여기에 웹페이지에 표시할 콘텐츠(태그)를 입력해주세요
   </body>
 </html>
-'''
+```
 
