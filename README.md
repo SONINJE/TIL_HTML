@@ -9,4 +9,4 @@
 ## CSS
 > + **Cascading Style Sheets**
 > > + Style sheet언어
-> >   - HTML 문서에 있는 요소들을 선택적으로 스타일을 적용할 수 있음
+> > > - HTML 문서에 있는 요소들을 선택적으로 스타일을 적용할 수 있음
