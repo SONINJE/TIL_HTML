@@ -104,6 +104,7 @@
 + ### script
 
 ## FISRT PROJECT (POSTER)
+
 ```
 <div class = "">
   <h2> </h2>
@@ -111,4 +112,5 @@
   <p class = ""> </p> 
 </div>
 ```
+
   ![image](https://github.com/SONINJE/HTML_STUDY/assets/106592497/c72e2ed9-abd1-4bea-b63a-29c230fe8039)
