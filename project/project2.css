@@ -1,0 +1,46 @@
+
+.box{
+}
+
+.red{
+    background-color: #e46e80;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.blue{
+    background-color: #5195ee;
+    border:2px dotted black;
+    position: absolute;
+    inset: 20px;
+    }
+
+.green{
+    background-color: #32b9c1;
+    position: relative;
+    height: 50px;
+    width: 150px;
+    top: 50px;
+    left: 50px;
+    border-radius: 20cqh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    border-radius:4cqh;
+    font-size: smaller;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
